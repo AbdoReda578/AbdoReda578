@@ -1,16 +1,129 @@
-## Hi there 👋
-
-<!--
-**AbdoReda578/AbdoReda578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[github-profile-1772696821893.json](https://github.com/user-attachments/files/25762446/github-profile-1772696821893.json)
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-03-05T07:47:01.892Z",
+  "profile": {
+    "title": "Abdulrahman Reda Abuzaid",
+    "subtitle": "Software developer",
+    "currentWork": "ERP System - Atlas",
+    "currentLearn": "Embedded System",
+    "collaborateOn": "Embedded Project",
+    "helpWith": "AI Based Project",
+    "ama": "Any thing you need ",
+    "contact": "abdoreda2008gtr@gmail.com",
+    "funFact": "Iam the start of the creation...",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://2025-protoflio.vercel.app/",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "AbdoReda578",
+    "dev": "",
+    "linkedin": "https://www.linkedin.com/in/abdulrahman-abuzaid-28609b2a2/",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "Abdulrahman Abuzaid",
+    "instagram": "@_xotk",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "unlv1",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "android",
+    "arduino",
+    "aws",
+    "bash",
+    "bootstrap",
+    "c",
+    "cplusplus",
+    "csharp",
+    "css3",
+    "dart",
+    "docker",
+    "dotnet",
+    "electron",
+    "express",
+    "figma",
+    "flask",
+    "flutter",
+    "git",
+    "heroku",
+    "html5",
+    "illustrator",
+    "java",
+    "javascript",
+    "jupyter",
+    "linux",
+    "mongodb",
+    "mysql",
+    "nextjs",
+    "nginx",
+    "nodejs",
+    "photoshop",
+    "php",
+    "postgresql",
+    "postman",
+    "python",
+    "react",
+    "sass",
+    "sculpin",
+    "selenium",
+    "sqlite",
+    "tailwind",
+    "typescript"
+  ]
+}
